@@ -1,4 +1,4 @@
-```git clone https://github.com/Grace-Amondi/AirBeds```
+```git clone https://github.com/Grace-Amondi/AirBeds.git```
 
 ```npm install```
 
